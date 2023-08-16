@@ -9,6 +9,18 @@ These are groups of Aarakocra which reside in the [[Sangri-La Mountain range]].
 
 
 
+The [[Garuda Parivar]] consist of different villages of that live on the mountain. They all have different elders that guide the Aarakocra forward. 
+
+
+
+
+### Villages 
+[[Aster's Village]]
+
+
+
+
+
 
 
 
