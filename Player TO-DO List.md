@@ -2,4 +2,4 @@
 	- [ ] [[Aster's lemming]]
 	- [ ] [[Kaela]]
 	- [ ] Your chaperone to Chandrakona
-- [ ] Some worldbuilding for [[Aster's ]]
+- [ ] Some worldbuilding for [[Aster's Village]]
