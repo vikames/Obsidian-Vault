@@ -9,4 +9,3 @@ Status: 10%
 
 1. Mulaney (Inn of the Root)
 2. Race Arena
-3. Adventurer's guild
