@@ -48,12 +48,28 @@
             "id": "f9baeb1cc03f2194",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023-07-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81aedea67be26e3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Notes/Characters/Group/Garuda Parivar.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -119,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DM Notes/Characters/Group/Garuda Parivar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DM Notes/Characters/Group/Garuda Parivar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DM Notes/Characters/Group/Garuda Parivar.md"
+              }
             }
           },
           {
@@ -184,8 +204,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12efb09000203dda",
+  "active": "81aedea67be26e3e",
   "lastOpenFiles": [
+    "DM Notes/Locations/1. Vriksha Rajya/Southern Root/Sangri-La Mountain range.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Southern Root/Southern Root Split village.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Southern Root/Southern Root.md",
+    "Player TO-DO List.md",
+    "Aster's lemming.md",
+    "Liri's lemming.md",
+    "2023-07-30.md",
+    "hiii.md",
+    "Untitled.canvas",
     "DM Notes/Characters/Group/Shaheen falcon.png",
     "DM Notes/Characters/Group/Garuda Parivar.md",
     "DM Notes/Characters/Group",
@@ -194,9 +223,6 @@
     "DM Notes/Locations/1. Vriksha Rajya/Western Root/Western Root.md",
     "DM Notes/Locations/1. Vriksha Rajya/Western Root/Western Root Split village.md",
     "DM Notes/Locations/1. Vriksha Rajya/Western Root",
-    "DM Notes/Locations/1. Vriksha Rajya/Southern Root/Southern Root Split village.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Southern Root/Southern Root.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Southern Root/Sangri-La Mountain range.md",
     "DM Notes/Locations/1. Vriksha Rajya/Southern Root",
     "DM Notes/Locations/1. Vriksha Rajya/Northern Root/Northern Root.md",
     "DM Notes/Locations/1. Vriksha Rajya/Northern Root/Northern Root Split village.md",
@@ -215,14 +241,9 @@
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Political district, Siyasi.md",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Market district.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Living district, Rehayashi.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Kirpan Square.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Harbor District Chandrakona.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Entertainment district Chandrakona.md",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root",
     "DM Notes/Locations/1. Vriksha Rajya",
-    "DM Notes/Locations",
-    "Untitled.canvas"
+    "DM Notes/Locations"
   ]
 }

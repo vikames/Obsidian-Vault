@@ -1,0 +1,5 @@
+- [ ] Work out characters around you
+	- [ ] [[Aster's lemming]]
+	- [ ] [[Kaela]]
+	- [ ] Your chaperone to Chandrakona
+- [ ] Some worldbuilding for [[Aster's ]]
