@@ -8,26 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c05cfbe6f4f97230",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "c39dbd5f7899b7cb",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "hiii.md",
+                "file": "2023-07-30.md",
                 "staged": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12efb09000203dda",
+  "active": "c39dbd5f7899b7cb",
   "lastOpenFiles": [
     "Untitled.md",
     "Untitled",
