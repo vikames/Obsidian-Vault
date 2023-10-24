@@ -60,11 +60,14 @@
             "id": "81aedea67be26e3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -135,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona.md",
+                "file": "Untitled 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona.md",
+                "file": "Untitled 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona.md"
+                "file": "Untitled 1.canvas"
               }
             }
           },
@@ -206,6 +209,10 @@
   },
   "active": "81aedea67be26e3e",
   "lastOpenFiles": [
+    "2023-10-24.md",
+    "Untitled 1.canvas",
+    "Player TO-DO List.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona.md",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Artisanal district, Kalainjar.md",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Postal service for Adventurers!.md",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Gemstone cutter.md",
@@ -217,9 +224,7 @@
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Harbor District Chandrakona.md",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Entertainment district Chandrakona.md",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona Slums.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona.md",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona Archives.md",
-    "Player TO-DO List.md",
     "DM Notes/Characters/Aster.md",
     "Aster's Village.md",
     "DM Notes/Characters/Group/Garuda Parivar.md",
@@ -235,8 +240,6 @@
     "DM Notes/Characters/Group",
     "DM Notes/Characters/New folder",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Pasted image 20230305201540.png",
-    "DM Notes/Locations/1. Vriksha Rajya/Western Root/Western Root.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Western Root/Western Root Split village.md",
     "DM Notes/Locations/1. Vriksha Rajya/Western Root",
     "DM Notes/Locations/1. Vriksha Rajya/Southern Root",
     "DM Notes/Locations/1. Vriksha Rajya/Northern Root",
