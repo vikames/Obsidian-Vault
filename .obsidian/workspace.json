@@ -11,10 +11,11 @@
             "id": "c39dbd5f7899b7cb",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "2023-07-30.md",
-                "staged": false
+                "file": "Git/Obsidian-Vault/DM Notes/Characters/Lenti.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Git/Obsidian-Vault/DM Notes/Characters/Lenti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Git/Obsidian-Vault/DM Notes/Characters/Lenti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Git/Obsidian-Vault/DM Notes/Characters/Lenti.md"
+              }
             }
           },
           {
@@ -145,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,17 +164,48 @@
   },
   "active": "c39dbd5f7899b7cb",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Untitled",
-    "2023-10-21.md",
+    "Git/Obsidian-Vault/DM Notes/Characters/Shale.md",
+    "Git/Obsidian-Vault/DM Notes/Characters/Aster.md",
+    "Git/Obsidian-Vault/DM Notes/Characters/Lenti.md",
+    "Ruby's Village.md",
+    "Git/Obsidian-Vault/DM Notes/Characters/Group/Shaheen falcon.png",
+    "Git/Obsidian-Vault/Aster's Village.md",
+    "Git/Obsidian-Vault/DM Notes/Characters/Group/Garuda Parivar.md",
+    "Git/Obsidian-Vault/hiii.md",
+    "Git/Obsidian-Vault/Untitled.canvas",
+    "Git/Obsidian-Vault/Untitled 1.canvas",
+    "Git/Obsidian-Vault/Player TO-DO List.md",
+    "Git/Obsidian-Vault/DM Notes/The Calendar/The Quantum Moon.md",
+    "Git/Obsidian-Vault/DM Notes/The Calendar/The Moon of the Waves.md",
+    "Git/Obsidian-Vault/DM Notes/The Calendar/The Moon of the Stone Forest.md",
+    "Git/Obsidian-Vault/DM Notes/The Calendar/The Moon of the Tree.md",
+    "Git/Obsidian-Vault/DM Notes/The Calendar/The Moon of the Plains.md",
+    "Git/Obsidian-Vault/DM Notes/The Calendar/The Moon of the Orchard.md",
+    "Git/Obsidian-Vault/DM Notes/The Calendar/The Moon of the Lion.md",
+    "Git/Obsidian-Vault/DM Notes/The Calendar/The Moon of Obsidian.md",
+    "Git/Obsidian-Vault/DM Notes/The Calendar/The Howling Moon.md",
+    "Git/Obsidian-Vault/DM Notes/The Calendar/The Heartbeat Moon.md",
+    "Git/Obsidian-Vault/DM Notes/The Calendar/The Cursed Moon.md",
+    "Git/Obsidian-Vault/DM Notes/The Calendar/The Calendar.md",
+    "Git/Obsidian-Vault/DM Notes/The Calendar",
+    "Git/Obsidian-Vault/DM Notes/Mechanics/Elemental Ki/wood.md",
+    "Git/Obsidian-Vault/DM Notes/Mechanics/Elemental Ki/water.md",
+    "Git/Obsidian-Vault/DM Notes/Mechanics/Elemental Ki/metal.md",
+    "Git/Obsidian-Vault/DM Notes/Mechanics/Elemental Ki/fire.md",
+    "Git/Obsidian-Vault/DM Notes/Mechanics/Elemental Ki/Elemental Ki.md",
+    "Git/Obsidian-Vault/DM Notes/Mechanics/Elemental Ki/earth.md",
+    "Git/Obsidian-Vault/DM Notes/Mechanics/Elemental Ki",
+    "Git/Obsidian-Vault/DM Notes/Mechanics",
+    "Git/Obsidian-Vault/DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar",
+    "Git/Obsidian-Vault/DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Pasted image 20230305201540.png",
+    "Git/Obsidian-Vault/DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona",
+    "Git/Obsidian-Vault/DM Notes/Locations/1. Vriksha Rajya/Western Root",
+    "Git/Obsidian-Vault/DM Notes/Locations/1. Vriksha Rajya/Southern Root",
+    "Git/Obsidian-Vault/DM Notes/Locations/1. Vriksha Rajya/Northern Root",
+    "Git/Obsidian-Vault/DM Notes/Locations/1. Vriksha Rajya/Eastern Root",
+    "Git/Obsidian-Vault/DM Notes/Locations/1. Vriksha Rajya",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "2023-10-14.md",
-    "2023-07-30.md",
-    "2023-09-25.md",
-    "Untitled 1",
-    "hiii.md",
-    "repository"
+    "Untitled.canvas"
   ]
 }
