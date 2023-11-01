@@ -8,51 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "25218d3db30f0604",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "f4fbe3a415e3be3f",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.3.7"
-              }
-            }
-          },
-          {
-            "id": "13980394b0139584",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hiii.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9baeb1cc03f2194",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-07-30.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -70,9 +31,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "a3661e14acbeb685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Notes/Characters/Kaela.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "village",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "DM Notes/Characters/Kaela.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "DM Notes/Characters/Kaela.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.canvas"
+                "file": "DM Notes/Characters/Kaela.md"
               }
             }
           },
@@ -207,16 +180,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81aedea67be26e3e",
+  "active": "a3661e14acbeb685",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "DM Notes/Characters/Aster.md",
-    "DM Notes/Characters/Kaela.md",
     "DM Notes/Characters/Group/Shaheen falcon.png",
     "DM Notes/Characters/Group/Garuda Parivar.md",
+    "DM Notes/Characters/Aster.md",
     "Aster's Village.md",
     "Aster's lemming.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled 1.canvas",
+    "Git/Obsidian-Vault",
+    "Git",
+    "Untitled.canvas",
+    "DM Notes/Characters/Kaela.md",
     "Player TO-DO List.md",
     "2023-10-24.md",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona.md",
@@ -236,7 +212,6 @@
     "DM Notes/Locations/1. Vriksha Rajya/Southern Root/Southern Root Split village.md",
     "DM Notes/Locations/1. Vriksha Rajya/Southern Root/Southern Root.md",
     "Liri's lemming.md",
-    "2023-07-30.md",
     "DM Notes/Characters/Group",
     "DM Notes/Characters/New folder",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Pasted image 20230305201540.png",
@@ -245,8 +220,6 @@
     "DM Notes/Locations/1. Vriksha Rajya/Northern Root",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root",
-    "DM Notes/Locations/1. Vriksha Rajya",
-    "DM Notes/Locations"
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root"
   ]
 }
