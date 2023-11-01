@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 784.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29b15650e4649642",
+  "active": "651cc15a43c726ab",
   "lastOpenFiles": [
     "DM Notes/Obsidian-Vault/DM Notes/Characters/Shale.md",
     "DM Notes/Obsidian-Vault/DM Notes/Characters/Aster.md",
