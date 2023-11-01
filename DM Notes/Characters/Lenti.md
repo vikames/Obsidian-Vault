@@ -6,7 +6,7 @@ thread: Poachers
 group: Garuda Parivar
 ---
 
-The teacher of [[Aster's Village]], he was assigned to teach Aster by her mother Shale. He is like a family member to [[DM Notes/Obsidian-Vault/DM Notes/Characters/Aster]] and [[Shale]]. 
+The teacher of [[Aster's Village]], he was assigned to teach Aster by her mother Shale. He is like a family member to [[Aster 1]] and [[Shale]]. 
 
 In the secluded Aarakocra village perched high in the craggy peaks of the mountains, a tale of resilience and wisdom unfolded. Lenti, an avian of another village, had found solace and a new home in the welcoming embrace of Shale's village. [[Shale]] herself had been a guiding light in this acceptance, having a heart as vast as the mountain ranges that surrounded their haven. When Lenti arrived, he brought with him stories of another village, now a distant memory tarnished by tragedy.
 
