@@ -10,13 +10,13 @@ For the most part, it is similar to what the 5e rules are, but there are some ex
 Whenever a creature doesn't have enough energy, it can sacrifice some of its life force to push themselves. 
 
 
-## ![[Limit breaking]]
+## ![[DM Notes/Mechanics/Limit breaking]]
 
-## ![[Alignment]]
+## ![[DM Notes/Mechanics/Alignment]]
 
-## ![[Elemental Ki]]
+## ![[DM Notes/Mechanics/Elemental Ki/Elemental Ki]]
 
-## ![[Equivalence to Magic]]
+## ![[DM Notes/Mechanics/Equivalence to Magic]]
 
 
 
