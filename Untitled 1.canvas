@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2a7ac9d96a3caa9f","x":-379,"y":-271,"width":250,"height":60,"type":"text","text":"Vika's version +2"},
+		{"id":"0869793c56c65578","x":3,"y":-226,"width":250,"height":60,"type":"text","text":"Steve's version +1"},
+		{"id":"a5eff4b641e6d6e7","x":-195,"y":85,"width":250,"height":60,"type":"text","text":"Online Repository +2"}
+	],
+	"edges":[
+		{"id":"36d33ed0db7e9fb8","fromNode":"0869793c56c65578","fromSide":"bottom","toNode":"a5eff4b641e6d6e7","toSide":"top"},
+		{"id":"4340d92a7f9fb869","fromNode":"2a7ac9d96a3caa9f","fromSide":"bottom","toNode":"a5eff4b641e6d6e7","toSide":"top"}
+	]
+}
