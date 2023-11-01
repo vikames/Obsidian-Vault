@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/Obsidian-Vault/DM Notes/Characters/Lenti.md",
+                "file": "DM Notes/Characters/Lenti.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/Obsidian-Vault/DM Notes/Characters/Lenti.md",
+                "file": "DM Notes/Characters/Lenti.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Notes/Obsidian-Vault/DM Notes/Characters/Lenti.md",
+                "file": "DM Notes/Characters/Lenti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Notes/Obsidian-Vault/DM Notes/Characters/Lenti.md",
+                "file": "DM Notes/Characters/Lenti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/Obsidian-Vault/DM Notes/Characters/Lenti.md"
+                "file": "DM Notes/Characters/Lenti.md"
               }
             }
           },
@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 784.5
+    "width": 505.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,12 +175,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "651cc15a43c726ab",
+  "active": "29b15650e4649642",
   "lastOpenFiles": [
     "DM Notes/Obsidian-Vault/DM Notes/Characters/Shale.md",
     "DM Notes/Obsidian-Vault/DM Notes/Characters/Aster.md",
     "conflict-files-obsidian-git.md",
-    "DM Notes/Obsidian-Vault/DM Notes/Characters/Lenti.md",
+    "DM Notes/Characters/Lenti.md",
     "DM Notes/Mechanics/Elemental Ki/wood.md",
     "DM Notes/Mechanics/Elemental Ki/water.md",
     "DM Notes/Mechanics/Elemental Ki/metal.md",
