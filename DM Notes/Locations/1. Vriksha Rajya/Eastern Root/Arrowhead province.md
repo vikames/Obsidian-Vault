@@ -6,4 +6,4 @@ Status: 5%
 
 #Location #Province
 
-[[Chandrakona]]
+[[DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona]]

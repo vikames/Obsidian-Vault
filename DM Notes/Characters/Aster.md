@@ -65,4 +65,4 @@ Liri's mentor teaches her how to enhance her stealth and cunning, honing her ski
 
 ## DM Idea
 
-She is a part of the [[Garuda Parivar]].
+She is a part of the [[DM Notes/Characters/Group/Garuda Parivar]].

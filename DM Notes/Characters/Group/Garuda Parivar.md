@@ -5,11 +5,11 @@ relevantTo: Ruby
 status: 5
 ---
 
-These are groups of Aarakocra which reside in the [[Sangri-La Mountain range]]. 
+These are groups of Aarakocra which reside in the [[DM Notes/Locations/1. Vriksha Rajya/Southern Root/Sangri-La Mountain range]]. 
 
 
 
-The [[Garuda Parivar]] consist of different villages of that live on the mountain. They all have different elders that guide the Aarakocra forward. 
+The [[DM Notes/Characters/Group/Garuda Parivar]] consist of different villages of that live on the mountain. They all have different elders that guide the Aarakocra forward. 
 
 
 
@@ -27,4 +27,4 @@ The [[Garuda Parivar]] consist of different villages of that live on the mountai
 
 
 ## Type of bird
-![[Shaheen falcon.png]]
+![[DM Notes/Characters/Group/Shaheen falcon.png]]

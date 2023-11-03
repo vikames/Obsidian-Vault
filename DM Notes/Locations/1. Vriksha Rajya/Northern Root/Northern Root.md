@@ -7,7 +7,7 @@ Status: Initial Idea
 
 #Location #Province
 
-The [[Northern Root]] is the one lies closest to the border of [[Al-Maghrib Al-Wafir]]. 
+The [[DM Notes/Locations/1. Vriksha Rajya/Northern Root/Northern Root]] is the one lies closest to the border of [[Al-Maghrib Al-Wafir]]. 
 
 Trade is a central point in the Northern root. In bigger cities like [[Northern Root gate city]] and [[Northern Root Split village]], there are a lot traders from [[Al-Maghrib Al-Wafir]].
 

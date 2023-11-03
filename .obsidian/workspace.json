@@ -43,9 +43,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d05b4eebcd59f607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Notes/Characters/Kaela.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Notes/Characters/Kaela.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/Characters/Kaela.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -180,19 +192,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3661e14acbeb685",
+  "active": "d05b4eebcd59f607",
   "lastOpenFiles": [
+    "DM Notes/Characters/Kaela.md",
+    "conflict-files-obsidian-git.md",
+    "DM Notes/Obsidian-Vault",
     "DM Notes/Characters/Group/Shaheen falcon.png",
     "DM Notes/Characters/Group/Garuda Parivar.md",
     "DM Notes/Characters/Aster.md",
     "Aster's Village.md",
     "Aster's lemming.md",
-    "conflict-files-obsidian-git.md",
     "Untitled 1.canvas",
     "Git/Obsidian-Vault",
     "Git",
     "Untitled.canvas",
-    "DM Notes/Characters/Kaela.md",
     "Player TO-DO List.md",
     "2023-10-24.md",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona.md",
@@ -219,7 +232,6 @@
     "DM Notes/Locations/1. Vriksha Rajya/Southern Root",
     "DM Notes/Locations/1. Vriksha Rajya/Northern Root",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root"
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona"
   ]
 }

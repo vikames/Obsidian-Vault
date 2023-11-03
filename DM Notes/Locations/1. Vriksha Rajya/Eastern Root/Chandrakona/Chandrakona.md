@@ -16,25 +16,25 @@ The name, Chandrakona, comes from the Sanskrit word for "Moon's angle".
 
 
 ### Political district
-![[Political district, Siyasi]]
+![[DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Political district, Siyasi]]
 
 ### Artisanal District
-![[Artisanal district, Kalainjar]]
+![[DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Artisanal district, Kalainjar]]
 
 ### Living district
-![[Living district, Rehayashi]]
+![[DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Living district, Rehayashi]]
 
 ### Entertainment district
-![[Entertainment district Chandrakona]]
+![[DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Entertainment district Chandrakona]]
 
 ### Harbor district
-![[Harbor District Chandrakona]]
+![[DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Harbor District Chandrakona]]
 
 ### Market district
-![[Market district]]
+![[DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Market district]]
 
 ### Kirpan Square
-![[Kirpan Square]]
+![[DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Kirpan Square]]
 
 ### Slums
-![[Chandrakona Slums]]
+![[DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona Slums]]
