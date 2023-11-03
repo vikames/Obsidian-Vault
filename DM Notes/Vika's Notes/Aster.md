@@ -11,7 +11,7 @@ Aarakocra mountain circle druid
 ## Backstory
 **Vika’s character**: Aster
 
-**Aster’s mother**: [[Shale]] (inspired by shale, a layered rock that is often seen in mountain ranges).
+**Aster’s mother**: [[DM Notes/Vika's Notes/Shale]] (inspired by shale, a layered rock that is often seen in mountain ranges).
 
 **Aster’s teacher**: [[Lenti]] (Lenticular: Lenticular clouds are unique to mountainous areas and form in the lee of mountains where moist air flows over the peaks. They have a lens or saucer-shaped appearance and can sometimes look like UFOs due to their smooth and elongated structure).
 
@@ -71,7 +71,7 @@ Jade: Named after the precious stone, this name symbolizes her unique and valuab
 
 
 
-Aster was born into a small and secluded Arakocra village nestled high in the mountains. [[Aster's Village]] was known for its strong connection to nature and its skilled druids who maintained harmony between the elements and the creatures that lived there. Her mother, [[Shale]], was a respected elder of the village and a powerful druid herself. Kaela's nurturing nature led her to raise Liri with a unique belief system that would shape the young Arakocra's life.
+Aster was born into a small and secluded Arakocra village nestled high in the mountains. [[Aster's Village]] was known for its strong connection to nature and its skilled druids who maintained harmony between the elements and the creatures that lived there. Her mother, [[DM Notes/Vika's Notes/Shale]], was a respected elder of the village and a powerful druid herself. Kaela's nurturing nature led her to raise Liri with a unique belief system that would shape the young Arakocra's life.
 
 From an early age, Kaela instilled in Liri the belief that the natural world was beautiful, but it also held many secrets and dangers. She taught Liri to respect all creatures and understand their role in the ecosystem. Strangely, she had an unconventional approach to strengthening Liri's immune system. ==Liri's mother secretly fed her cockroaches, claiming they were rich in nutrients and essential for her health. This resulted in Liri developing an ironic fear of cockroaches, even though they were meant to be beneficial for her.==
 

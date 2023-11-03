@@ -23,10 +23,11 @@
             "id": "d2f1c6b55e6f289c",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "DM Notes/Vika's Notes/Ola.md",
-                "staged": true
+                "file": "DM Notes/Vika's Notes/Lemming Pebble.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DM Notes/Vika's Notes/Lemming Pebble.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DM Notes/Vika's Notes/Lemming Pebble.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DM Notes/Vika's Notes/Lemming Pebble.md"
+              }
             }
           },
           {
@@ -173,21 +178,21 @@
   "active": "d2f1c6b55e6f289c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "DM Notes/Vika's Notes/Ola.md",
+    "DM Notes/Vika's Notes/Lemming Pebble.md",
     "DM Notes/Vika's Notes",
     "DM Notes/Obsidian-Vault/Aster's lemming.md",
     "DM Notes/Locations/1. Vriksha Rajya/Southern Root/Sangri-La Mountain range.md",
     "DM Notes/Obsidian-Vault/DM Notes/Characters/Group/Garuda Parivar.md",
-    "DM Notes/Characters/Aster.md",
+    "DM Notes/Vika's Notes/Aster.md",
     "DM Notes/Obsidian-Vault/DM Notes/Characters/Group/Shaheen falcon.png",
     "2023-10-24.md",
     "Aster's lemming.md",
     "Aster's Village.md",
     "Player TO-DO List.md",
-    "DM Notes/Characters/Lenti.md",
+    "DM Notes/Vika's Notes/Lenti.md",
     "Untitled 1.canvas",
     "DM Notes/Characters/Aster 1.md",
-    "DM Notes/Characters/Shale.md",
+    "DM Notes/Vika's Notes/Shale.md",
     "DM Notes/Characters/Aster Initial.md",
     "DM Notes/Obsidian-Vault/DM Notes/Characters/Shale.md",
     "DM Notes/Mechanics/Elemental Ki/wood.md",

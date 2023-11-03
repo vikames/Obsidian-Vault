@@ -1,5 +1,5 @@
 - [ ] Work out characters around you
 	- [ ] [[Aster's lemming]]
-	- [ ] [[Shale]]
+	- [ ] [[DM Notes/Vika's Notes/Shale]]
 	- [ ] Your chaperone to Chandrakona
 - [ ] Some worldbuilding for [[Aster's Village]]
