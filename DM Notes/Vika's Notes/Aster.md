@@ -4,10 +4,7 @@ country:
 playedBy: Vika
 thread: Organised Crime
 ---
-
 Aarakocra mountain circle druid
-
-
 ## Backstory
 **Vika’s character**: Aster
 

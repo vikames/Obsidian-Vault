@@ -8,7 +8,7 @@ group: Garuda Parivar
 
 
 ### Appearance
-He is an Aarakocra with brown feathers that seem to be graying at the tips. He has a scar over his eye that makes him incapable of looking through it. While he is quite strong, he is also tired quickly from the injuries he has endured. 
+He is a Great Horned Owl Aarakocra with brown feathers that seem to be graying at the tips. He has a scar over his eye that makes him incapable of looking through it. While he is quite strong, he is also tired quickly from the injuries he has endured. 
 
 He wears a leather vest that does not obscure his wings and a pendant for his druidic focus.
 ### Background
