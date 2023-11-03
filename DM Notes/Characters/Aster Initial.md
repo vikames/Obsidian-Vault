@@ -61,7 +61,7 @@ Liri's mentor teaches her how to enhance her stealth and cunning, honing her ski
 
 "ooooor she talked her mom into sending her to a relative in the city. But she only convinced her to do so becase she overheard the humans talking that that is where the main sales are"
 
-"oh I was gonna say maybe a [[DM Notes/Vika's Notes/Aster's lemming]] cuz they are in the mountains"
+"oh I was gonna say maybe a [[Lemming Pebble]] cuz they are in the mountains"
 
 ## DM Idea
 
