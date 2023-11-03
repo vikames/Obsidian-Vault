@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/Vika's Notes/Untitled.md",
+                "file": "DM Notes/Vika's Notes/Ola.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Notes/Vika's Notes/Untitled.md",
+                "file": "DM Notes/Vika's Notes/Ola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Notes/Vika's Notes/Untitled.md",
+                "file": "DM Notes/Vika's Notes/Ola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/Vika's Notes/Untitled.md"
+                "file": "DM Notes/Vika's Notes/Ola.md"
               }
             }
           },
@@ -192,10 +192,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d05b4eebcd59f607",
+  "active": "12efb09000203dda",
   "lastOpenFiles": [
     "DM Notes/Characters/Lenti.md",
-    "DM Notes/Vika's Notes/Untitled.md",
+    "DM Notes/Vika's Notes/Ola.md",
     "Player TO-DO List.md",
     "Aster's Village.md",
     "Aster's lemming.md",
