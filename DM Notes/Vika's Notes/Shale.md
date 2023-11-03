@@ -6,7 +6,7 @@ thread: Poachers
 group: Garuda Parivar
 ---
 
-The elder of [[Aster's Village]], she is one of the older Aarakocra in the region. She is around 40. 
+The elder of [[Avians' Reach]], she is one of the older Aarakocra in the region. She is around 40. 
 
 
 ### VIKA ADDITIONS

@@ -1,5 +1,5 @@
 - [ ] Work out characters around you
-	- [ ] [[Aster's lemming]]
+	- [ ] [[DM Notes/Vika's Notes/Aster's lemming]]
 	- [ ] [[DM Notes/Vika's Notes/Shale]]
 	- [ ] Your chaperone to Chandrakona
-- [ ] Some worldbuilding for [[Aster's Village]]
+- [ ] Some worldbuilding for [[Avians' Reach]]

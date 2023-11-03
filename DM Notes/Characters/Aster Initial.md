@@ -10,7 +10,7 @@ Aarakocra mountain circle druid
 
 ## Backstory
 
-Liri was born into a small and secluded Arakocra village nestled high in the mountains. [[Aster's Village]] was known for its strong connection to nature and its skilled druids who maintained harmony between the elements and the creatures that lived there. Her mother, [[DM Notes/Vika's Notes/Shale]], was a respected elder of the village and a powerful druid herself. Kaela's nurturing nature led her to raise Liri with a unique belief system that would shape the young Arakocra's life.
+Liri was born into a small and secluded Arakocra village nestled high in the mountains. [[Avians' Reach]] was known for its strong connection to nature and its skilled druids who maintained harmony between the elements and the creatures that lived there. Her mother, [[DM Notes/Vika's Notes/Shale]], was a respected elder of the village and a powerful druid herself. Kaela's nurturing nature led her to raise Liri with a unique belief system that would shape the young Arakocra's life.
 
 From an early age, Kaela instilled in Liri the belief that the natural world was beautiful, but it also held many secrets and dangers. She taught Liri to respect all creatures and understand their role in the ecosystem. Strangely, she had an unconventional approach to strengthening Liri's immune system. ==Liri's mother secretly fed her cockroaches, claiming they were rich in nutrients and essential for her health. This resulted in Liri developing an ironic fear of cockroaches, even though they were meant to be beneficial for her.==
 
@@ -61,7 +61,7 @@ Liri's mentor teaches her how to enhance her stealth and cunning, honing her ski
 
 "ooooor she talked her mom into sending her to a relative in the city. But she only convinced her to do so becase she overheard the humans talking that that is where the main sales are"
 
-"oh I was gonna say maybe a [[Aster's lemming]] cuz they are in the mountains"
+"oh I was gonna say maybe a [[DM Notes/Vika's Notes/Aster's lemming]] cuz they are in the mountains"
 
 ## DM Idea
 
