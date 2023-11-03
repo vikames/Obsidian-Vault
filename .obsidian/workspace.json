@@ -4,48 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b10bced111b3bdc1",
+        "id": "fa21917c81c0237b",
         "type": "tabs",
         "children": [
           {
-            "id": "f4fbe3a415e3be3f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
-          },
-          {
-            "id": "81aedea67be26e3e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": -63,
-                  "y": -63,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "a3661e14acbeb685",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Notes/Characters/Shale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d05b4eebcd59f607",
+            "id": "c39dbd5f7899b7cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,13 +136,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "8bc15841300bc53e",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,46 +162,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d05b4eebcd59f607",
+  "active": "c39dbd5f7899b7cb",
   "lastOpenFiles": [
-    "Player TO-DO List.md",
-    "Aster's Village.md",
-    "Aster's lemming.md",
-    "DM Notes/Characters/Lenti.md",
-    "Vika's Notes",
-    "DM Notes/Characters/Aster.md",
-    "DM Notes/Characters/Aster Initial.md",
-    "DM Notes/Characters/Shale.md",
+    "DM Notes/Characters/Aster 1.md",
     "conflict-files-obsidian-git.md",
-    "DM Notes/Obsidian-Vault",
-    "DM Notes/Characters/Group/Shaheen falcon.png",
-    "DM Notes/Characters/Group/Garuda Parivar.md",
+    "DM Notes/Characters/Shale.md",
+    "DM Notes/Characters/Aster Initial.md",
+    "DM Notes/Characters/Aster.md",
+    "DM Notes/Characters/Lenti.md",
+    "DM Notes/Obsidian-Vault/DM Notes/Characters/Shale.md",
+    "DM Notes/Mechanics/Elemental Ki/wood.md",
+    "DM Notes/Mechanics/Elemental Ki/water.md",
+    "DM Notes/Mechanics/Elemental Ki/metal.md",
+    "DM Notes/Mechanics/Elemental Ki/fire.md",
+    "DM Notes/Mechanics/Elemental Ki/Elemental Ki.md",
+    "DM Notes/Mechanics/Elemental Ki/earth.md",
+    "DM Notes/Mechanics/Limit breaking.md",
+    "DM Notes/Mechanics/Ki System.md",
+    "DM Notes/Mechanics/Equivalence to Magic.md",
+    "DM Notes/Mechanics/Elemental Ki",
+    "DM Notes/Mechanics/Alignment.md",
+    "DM Notes/Mechanics",
     "Untitled 1.canvas",
-    "Git/Obsidian-Vault",
-    "Git",
-    "Untitled.canvas",
-    "2023-10-24.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Artisanal district, Kalainjar.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Postal service for Adventurers!.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Gemstone cutter.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Political district, Siyasi.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Arivin ilaigal.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Market district.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Living district, Rehayashi.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Kirpan Square.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Harbor District Chandrakona.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Entertainment district Chandrakona.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona Slums.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona Archives.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Southern Root/Sangri-La Mountain range.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Southern Root/Southern Root Split village.md",
-    "DM Notes/Characters/Group",
-    "DM Notes/Characters/New folder",
+    "Player TO-DO List.md",
+    "DM Notes/The Calendar/The Quantum Moon.md",
+    "DM Notes/The Calendar/The Moon of the Stone Forest.md",
+    "DM Notes/The Calendar/The Moon of the Waves.md",
+    "DM Notes/The Calendar/The Moon of the Tree.md",
+    "DM Notes/The Calendar/The Moon of the Plains.md",
+    "DM Notes/The Calendar/The Moon of the Lion.md",
+    "DM Notes/The Calendar/The Moon of the Orchard.md",
+    "DM Notes/The Calendar/The Howling Moon.md",
+    "DM Notes/The Calendar",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Pasted image 20230305201540.png",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona",
     "DM Notes/Locations/1. Vriksha Rajya/Western Root",
     "DM Notes/Locations/1. Vriksha Rajya/Southern Root",
     "DM Notes/Locations/1. Vriksha Rajya/Northern Root",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar"
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root",
+    "DM Notes/Locations/1. Vriksha Rajya",
+    "DM Notes/Characters/Group/Shaheen falcon.png",
+    "DM Notes/Obsidian-Vault/DM Notes/Characters/Group/Shaheen falcon.png",
+    "DM Notes/Obsidian-Vault/Untitled.canvas",
+    "DM Notes/Obsidian-Vault/Untitled 1.canvas",
+    "DM Notes/Obsidian-Vault/DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Pasted image 20230305201540.png",
+    "Untitled 2.canvas",
+    "Untitled.canvas"
   ]
 }
