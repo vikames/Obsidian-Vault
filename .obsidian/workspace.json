@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/Characters/Kaela.md",
+                "file": "DM Notes/Characters/Shale.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "DM Notes/Characters/Lenti.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "DM Notes/Characters/Lenti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "DM Notes/Characters/Lenti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "DM Notes/Characters/Lenti.md"
               }
             }
           },
@@ -194,19 +194,22 @@
   },
   "active": "d05b4eebcd59f607",
   "lastOpenFiles": [
-    "DM Notes/Characters/Kaela.md",
+    "Player TO-DO List.md",
+    "Aster's Village.md",
+    "Aster's lemming.md",
+    "DM Notes/Characters/Lenti.md",
+    "Vika's Notes",
+    "DM Notes/Characters/Aster.md",
+    "DM Notes/Characters/Aster Initial.md",
+    "DM Notes/Characters/Shale.md",
     "conflict-files-obsidian-git.md",
     "DM Notes/Obsidian-Vault",
     "DM Notes/Characters/Group/Shaheen falcon.png",
     "DM Notes/Characters/Group/Garuda Parivar.md",
-    "DM Notes/Characters/Aster.md",
-    "Aster's Village.md",
-    "Aster's lemming.md",
     "Untitled 1.canvas",
     "Git/Obsidian-Vault",
     "Git",
     "Untitled.canvas",
-    "Player TO-DO List.md",
     "2023-10-24.md",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona.md",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Artisanal district, Kalainjar.md",
@@ -223,15 +226,12 @@
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona Archives.md",
     "DM Notes/Locations/1. Vriksha Rajya/Southern Root/Sangri-La Mountain range.md",
     "DM Notes/Locations/1. Vriksha Rajya/Southern Root/Southern Root Split village.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Southern Root/Southern Root.md",
-    "Liri's lemming.md",
     "DM Notes/Characters/Group",
     "DM Notes/Characters/New folder",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Pasted image 20230305201540.png",
     "DM Notes/Locations/1. Vriksha Rajya/Western Root",
     "DM Notes/Locations/1. Vriksha Rajya/Southern Root",
     "DM Notes/Locations/1. Vriksha Rajya/Northern Root",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona"
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar"
   ]
 }
