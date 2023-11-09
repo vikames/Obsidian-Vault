@@ -23,14 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/Vika's Notes/Lemming Pebble.md",
+                "file": "DM Notes/Vika's Notes/Lenti.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dfa1ef62279918f6",
+            "id": "11038f93f46b18ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Notes/Vika's Notes/Lemming Pebble.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Notes/Vika's Notes/Lemming Pebble.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Notes/Vika's Notes/Lemming Pebble.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -177,14 +177,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3661e14acbeb685",
+  "active": "11038f93f46b18ff",
   "lastOpenFiles": [
-    "DM Notes/Characters/Group/Shaheen falcon.png",
+    "DM Notes/Vika's Notes/Lenti.md",
     "conflict-files-obsidian-git.md",
+    "DM Notes/Vika's Notes/Avians' Reach.md",
+    "DM Notes/Vika's Notes/Lemming Pebble.md",
+    "Pasted image 20231103172004.png",
+    "Pasted image 20231103171958.png",
+    "DM Notes/Characters/Group/Shaheen falcon.png",
     "DM Notes/Vika's Notes/Ola.md",
     "DM Notes/Vika's Notes/Shale.md",
-    "DM Notes/Vika's Notes/Lenti.md",
-    "DM Notes/Vika's Notes/Lemming Pebble.md",
     "DM Notes/Vika's Notes/Aster.md",
     "DM Notes/Characters/Lenti.md",
     "Player TO-DO List.md",
@@ -210,7 +213,6 @@
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Market district.md",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Living district, Rehayashi.md",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Kirpan Square.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Harbor District Chandrakona.md",
     "DM Notes/Characters/Group",
     "DM Notes/Characters/New folder",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Pasted image 20230305201540.png",

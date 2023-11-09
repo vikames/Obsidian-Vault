@@ -8,12 +8,12 @@ group: Garuda Parivar
 
 
 ### Appearance
-He is an Aarakocra with brown feathers that seem to be graying at the tips. He has a scar over his eye that makes him incapable of looking through it. While he is quite strong, he is also tired quickly from the injuries he has endured. 
+He is a Great Horned Owl Aarakocra with brown feathers that seem to be graying at the tips. He has a scar over his eye that makes him incapable of looking through it. While he is quite strong, he is also tired quickly from the injuries he has endured. 
 
 He wears a leather vest that does not obscure his wings and a pendant for his druidic focus.
 ### Background
 
-The teacher of [[Aster's Village]], he was assigned to teach [[Aster]] by her mother Shale. He is like a family member to [[Aster]] and [[DM Notes/Vika's Notes/Shale]]. 
+The teacher of [[Avians' Reach]], he was assigned to teach [[Aster]] by her mother Shale. He is like a family member to [[Aster]] and [[DM Notes/Vika's Notes/Shale]]. 
 
 In the secluded Aarakocra village perched high in the craggy peaks of the mountains, a tale of resilience and wisdom unfolded. Lenti, an avian of another village, had found solace and a new home in the welcoming embrace of Shale's village. [[DM Notes/Vika's Notes/Shale]] herself had been a guiding light in this acceptance, having a heart as vast as the mountain ranges that surrounded their haven. When Lenti arrived, he brought with him stories of another village, now a distant memory tarnished by tragedy.
 

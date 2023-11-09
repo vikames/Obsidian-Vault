@@ -15,7 +15,7 @@ The [[DM Notes/Characters/Group/Garuda Parivar]] consist of different villages o
 
 
 ### Villages 
-[[Aster's Village]]
+[[Avians' Reach]]
 
 
 
